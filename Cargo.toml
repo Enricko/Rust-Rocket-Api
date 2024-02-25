@@ -1,0 +1,12 @@
+[package]
+name = "Rust-Rocket-Api"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.5.0"
+
+[dev-dependencies]
+cargo-watch = "8.5.2"
